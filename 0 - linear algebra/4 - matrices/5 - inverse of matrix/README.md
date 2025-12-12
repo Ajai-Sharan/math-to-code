@@ -24,6 +24,7 @@ In real-world Machine Learning, we often use the Moore-Penrose Pseudo-Inverse. I
 
 ## Deep Learning Libraries
 
-### version 5 --> A. PyTorch
+### version 5 --> A. PyTorch (torch.linalg.inv)
 
-### version 6 --> B. TensorFlow
+### version 6 --> B. TensorFlow (tf.linalg.inv)
+
